@@ -1,7 +1,7 @@
 # Fitness Tracker 🏋️‍♂️
 ### Created by Bakhrom Usmanov
 
-Welcome to **Fitness Tracker**, an app designed to help users efficiently manage their high-intensity interval training (HIIT) workouts with a user-friendly interface and built-in tracking features.
+Welcome to **Fitness Tracker**, an app designed to help users efficiently manage their high-intensity interval training workouts with a user-friendly interface and built-in tracking features.
 
 ## 📱 What the App Can Do:
 
